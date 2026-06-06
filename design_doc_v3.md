@@ -442,7 +442,7 @@ g4f Provider Pool
 ```
 
 ---
-## ## 7. 💻 Frontend & Deployment（前端展示与部署）
+## 7. 💻 Frontend & Deployment（前端展示与部署）
 
 - 作为系统唯一用户入口与执行边界，承载请求触发、结果消费与生命周期终止闭环
 - 基于 Jinja2 构建轻量静态骨架，实现低延迟首屏渲染与零前端状态依赖
